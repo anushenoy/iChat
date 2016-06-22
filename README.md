@@ -2,6 +2,8 @@
 Real-time Chat application for iOS written in ObjectiveC using Firebase and JSQMessagesViewController. For tutorials refer: https://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat
 
 
+
+
 In order to run project, you should make some setup steps: 
 
 -Create and setup project at Firebase Console. 
