@@ -1,5 +1,5 @@
 # iChat
-Real-time Chat application for iOS written in ObjectiveC using Firebase and JSQMessagesViewController. For tutorials refer: https://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat
+Real-time Chat application for iOS written in ObjectiveC using Firebase(3.2) and JSQMessagesViewController. For tutorials refer: https://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat (note: this tutorial is in swift and for a older version of firebase)
 
 
 
