@@ -8,7 +8,7 @@ In order to run project, you should make some setup steps:
 
 -Create and setup project at Firebase Console. 
 
--Provide your own configuration file as described here https://firebase.google.com/docs/iossetup#add_firebase_to_your_app
+-Provide your own configuration file as described here https://firebase.google.com/docs/ios/setup
 
 -Enable Anonymous Authentication for you Firebase App.
 
